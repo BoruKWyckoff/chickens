@@ -1,4 +1,0 @@
-rooster
-hen
-chick
-more chickens
